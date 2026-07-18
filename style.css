@@ -22,13 +22,13 @@
     box-shadow: 5px 5px 30px rgb(150, 150, 150);
 }
 .card-1{
-    background-image: url("assets/ibomma.png");
+    background-image: url("assets/mount-everest.jpg");
 }
 .card-2{
-    background-image: url("assets/flames.png");
+    background-image: url("assets/mount-fuji.jpg");
 }
 .card-3{
-    background-image: url("assets/pharmacy.png");
+    background-image: url("assets/mont-serrat.jpg");
 }
 .text{
     width: 100%;
